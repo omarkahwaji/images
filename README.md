@@ -16,20 +16,13 @@ and storage, and to retrieve processed image data based on a specified depth ran
 To get started, first clone the repository from GitHub:
 
 ```bash
-git clone 
+git clone git@github.com:omarkahwaji/images.git
+```
+
 ```
 
 
-### 2. Navigate to the Project Directory
-
-Once cloned, navigate to the project directory:
-
-```bash
-cd 
-```
-
-
-### 3. Setup and Running the Service
+### 2. Setup and Running the Service
 
 To start the service, run the following command:
 
